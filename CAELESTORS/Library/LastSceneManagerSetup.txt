@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/INT ASSETS/Scenes/STAGES/00_Prologue/INSULAM_Dracotro.unity
+  isLoaded: 1
+  isActive: 1

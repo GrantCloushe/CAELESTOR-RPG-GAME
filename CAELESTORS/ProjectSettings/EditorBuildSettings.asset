@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/INT ASSETS/Scenes/MAINMENU/TittleScreen.unity
+    guid: 2f721e2a893486f4db863c44eff2061b
+  - enabled: 1
+    path: Assets/INT ASSETS/Scenes/STAGES/01_Levit/Levit_ACT01.unity
+    guid: f430e33f3ca89a74a959a093aed294f4
+  - enabled: 1
+    path: Assets/INT ASSETS/Scenes/STAGES/01_Levit/Levit_ACT02.unity
+    guid: 1803461aa6c80f54a8b65ddf3d1564bd
+  m_configObjects: {}

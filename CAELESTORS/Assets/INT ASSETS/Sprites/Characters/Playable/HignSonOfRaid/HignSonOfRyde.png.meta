@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: d2b335a739b5f4c4f8ee2760ac16a5f2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HignSonOfRyde_0
+    21300002: HignSonOfRyde_1
+    21300004: HignSonOfRyde_2
+    21300006: HignSonOfRyde_3
+    21300008: HignSonOfRyde_4
+    21300010: HignSonOfRyde_5
+    21300012: HignSonOfRyde_6
+    21300014: HignSonOfRyde_7
+    21300016: HignSonOfRyde_8
+    21300018: HignSonOfRyde_9
+    21300020: HignSonOfRyde_10
+    21300022: HignSonOfRyde_11
+    21300024: HignSonOfRyde_12
+    21300026: HignSonOfRyde_13
+    21300028: HignSonOfRyde_14
+    21300030: HignSonOfRyde_15
+    21300032: HignSonOfRyde_16
+    21300034: HignSonOfRyde_17
+    21300036: HignSonOfRyde_18
+    21300038: HignSonOfRyde_19
+    21300040: HignSonOfRyde_20
+    21300042: HignSonOfRyde_21
+    21300044: HignSonOfRyde_22
+    21300046: HignSonOfRyde_23
+    21300048: HignSonOfRyde_24
+    21300050: HignSonOfRyde_25
+    21300052: HignSonOfRyde_26
+    21300054: HignSonOfRyde_27
+    21300056: HignSonOfRyde_28
+    21300058: HignSonOfRyde_29
+    21300060: HignSonOfRyde_30
+    21300062: HignSonOfRyde_31
+    21300064: HignSonOfRyde_32
+    21300066: HignSonOfRyde_33
+    21300068: HignSonOfRyde_34
+    21300070: HignSonOfRyde_35
+    21300072: HignSonOfRyde_36
+    21300074: HignSonOfRyde_37
+    21300076: HignSonOfRyde_38
+    21300078: HignSonOfRyde_39
+    21300080: HignSonOfRyde_40
+    21300082: HignSonOfRyde_41
+    21300084: HignSonOfRyde_42
+    21300086: HignSonOfRyde_43
+    21300088: HignSonOfRyde_44
+    21300090: HignSonOfRyde_45
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HignSonOfRyde_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2001
+        width: 48
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59824dd7197574b408eadfc4e7b90805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2001
+        width: 49
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9aaa06e450a094eb9033550868839c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2001
+        width: 26
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da2ea50eb687c4bb6f4a89d364b21d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1869
+        width: 41
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411682a3e7498345aa66b9f2eb255fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1868
+        width: 46
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d48fffd9caa24a9002541a3c5603a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1868
+        width: 46
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80153a0f04779499fde1bfd9dc4b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1735
+        width: 45
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811ae041fa9e6d440abab193bde2dfd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1735
+        width: 40
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f86cb629b47004da4203de89440091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1735
+        width: 46
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5f31d81c00794fb5949e4d394d295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1602
+        width: 46
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6f939044eae34f8782791a250f3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1602
+        width: 46
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fe836a042b7b4ba22586a22c1a2a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1599
+        width: 32
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35421c817c47af9409147a5b1351907c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1466
+        width: 39
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f0e545be25fb4da758cc542117f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1467
+        width: 62
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285685c993b680c47954a17318c811ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1495
+        width: 74
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa0c3a8baa38a4fa61d2232fed9b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1344
+        width: 83
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69482adbf589ee047af024416bc8de2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1336
+        width: 48
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d517a2bdcf149449937a2550551bf5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1336
+        width: 46
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a983af2e6452f242aee9a9b56f40945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1203
+        width: 48
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc038fbf4165c0448d68a85081882e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1203
+        width: 47
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c25fa57364d346b5df9dfec93535a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1203
+        width: 70
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf042a6dbd2e404ab758c3a440493a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1081
+        width: 48
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04027ad6e46946f43818d62350008041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1074
+        width: 44
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ddc5daa762c6446a1a50951b65f469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1065
+        width: 47
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadffff694ba0f64b9248187a9d58520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 934
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d028d346d84b72e45a0f8db7078d063d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 938
+        width: 41
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7679652b5077847aab3caf14230700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 939
+        width: 58
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd98a8d30c1a6f4f99cf591aca3ac64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 805
+        width: 46
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cad14694a8c084c8fed4fdc9b8f116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 805
+        width: 51
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9a4eab1927ab458aa959b275f75e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 805
+        width: 45
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022646a23d9ac2647867dc39715284d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 668
+        width: 48
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d38272d12166a42a9cc6de450089a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 669
+        width: 86
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17048e5fd55f639409a794c14a498ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 669
+        width: 98
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb3e43dbf9b454398aa3355ec4653f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 537
+        width: 112
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc12adaff1994940bb10ba7424c7be8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 536
+        width: 54
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9155d913118d8748a8edeaa0196904b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 539
+        width: 43
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a577ce58783e504f84f9615188fa09b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 406
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ef289aa261ec4992d16fe32de2945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 406
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94906dbbdaeec6949ad0138c4111218c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 406
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5115c82a84520449338515c67737e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 273
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08848f88c4cf4a42a831ebedd20f934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 281
+        width: 41
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796a68f186f4c049a74e2c9a47b7a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 281
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3f989425cf81458844e4ad8baf892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 172
+        width: 89
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b868553ffee0419c75fe0acd228fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 150
+        width: 44
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60a211ad2fcdb43b27909f05b2975b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 134
+        width: 85
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7d9a39518cd74ea1ade25992bfe94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HignSonOfRyde_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 90
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c229da87381b43830dac7d0ee65e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a516dadabd69174cba67402092767da
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

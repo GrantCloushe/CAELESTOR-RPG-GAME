@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b4b10c774d8384fb692505154b30f4, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: ad4be9eaa116feb4e9df8128f6beb026, type: 3}
+  itemId: 5
+  itemName: Sword
+  coast: 0
+  physicalSprite: {fileID: 21300000, guid: c3fcc2768a35d834b8e26cd1d64519c3, type: 3}
+  physicalPrefab: {fileID: 0}
+  destructible: 0
+  isCarrying: 0
+  state: 0
+  statesIcon: []
+  isWeapon: 1
+  weaponStr: 0
+  weaponSpd: 0
+  weaponKnockback: 0
+  weaponVerticality: 0
+  weaponRange: 0

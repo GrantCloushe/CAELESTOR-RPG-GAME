@@ -1,0 +1,1621 @@
+fileFormatVersion: 2
+guid: 9f20c87ad84617642821c2d8eb62f1bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Parsekian_SpriteSheet_0
+    21300002: Parsekian_SpriteSheet_1
+    21300004: Parsekian_SpriteSheet_2
+    21300006: Parsekian_SpriteSheet_3
+    21300008: Parsekian_SpriteSheet_4
+    21300010: Parsekian_SpriteSheet_5
+    21300012: Parsekian_SpriteSheet_6
+    21300014: Parsekian_SpriteSheet_7
+    21300016: Parsekian_SpriteSheet_8
+    21300018: Parsekian_SpriteSheet_9
+    21300020: Parsekian_SpriteSheet_10
+    21300022: Parsekian_SpriteSheet_11
+    21300024: Parsekian_SpriteSheet_12
+    21300026: Parsekian_SpriteSheet_13
+    21300028: Parsekian_SpriteSheet_14
+    21300030: Parsekian_SpriteSheet_15
+    21300032: Parsekian_SpriteSheet_16
+    21300034: Parsekian_SpriteSheet_17
+    21300036: Parsekian_SpriteSheet_18
+    21300038: Parsekian_SpriteSheet_19
+    21300040: Parsekian_SpriteSheet_20
+    21300042: Parsekian_SpriteSheet_21
+    21300044: Parsekian_SpriteSheet_22
+    21300046: Parsekian_SpriteSheet_23
+    21300048: Parsekian_SpriteSheet_24
+    21300050: Parsekian_SpriteSheet_25
+    21300052: Parsekian_SpriteSheet_26
+    21300054: Parsekian_SpriteSheet_27
+    21300056: Parsekian_SpriteSheet_28
+    21300058: Parsekian_SpriteSheet_29
+    21300060: Parsekian_SpriteSheet_30
+    21300062: Parsekian_SpriteSheet_31
+    21300064: Parsekian_SpriteSheet_32
+    21300066: Parsekian_SpriteSheet_33
+    21300068: Parsekian_SpriteSheet_34
+    21300070: Parsekian_SpriteSheet_35
+    21300072: Parsekian_SpriteSheet_36
+    21300074: Parsekian_SpriteSheet_37
+    21300076: Parsekian_SpriteSheet_38
+    21300078: Parsekian_SpriteSheet_39
+    21300080: Parsekian_SpriteSheet_40
+    21300082: Parsekian_SpriteSheet_41
+    21300084: Parsekian_SpriteSheet_42
+    21300086: Parsekian_SpriteSheet_43
+    21300088: Parsekian_SpriteSheet_44
+    21300090: Parsekian_SpriteSheet_45
+    21300092: Parsekian_SpriteSheet_46
+    21300094: Parsekian_SpriteSheet_47
+    21300096: Parsekian_SpriteSheet_48
+    21300098: Parsekian_SpriteSheet_49
+    21300100: Parsekian_SpriteSheet_50
+    21300102: Parsekian_SpriteSheet_51
+    21300104: Parsekian_SpriteSheet_52
+    21300106: Parsekian_SpriteSheet_53
+    21300108: Parsekian_SpriteSheet_54
+    21300110: Parsekian_SpriteSheet_55
+    21300112: Parsekian_SpriteSheet_56
+    21300114: Parsekian_SpriteSheet_57
+    21300116: Parsekian_SpriteSheet_58
+    21300118: Parsekian_SpriteSheet_59
+    21300120: Parsekian_SpriteSheet_60
+    21300122: Parsekian_SpriteSheet_61
+    21300124: Parsekian_SpriteSheet_62
+    21300126: Parsekian_SpriteSheet_63
+    21300128: Parsekian_SpriteSheet_64
+    21300130: Parsekian_SpriteSheet_65
+    21300132: Parsekian_SpriteSheet_66
+    21300134: Parsekian_SpriteSheet_67
+    21300136: Parsekian_SpriteSheet_68
+    21300138: Parsekian_SpriteSheet_69
+    21300140: Parsekian_SpriteSheet_70
+    21300142: Parsekian_SpriteSheet_71
+    21300144: Parsekian_SpriteSheet_72
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3120
+        width: 54
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad651af4cfb60649a21482d45bb3a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3120
+        width: 56
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8143bc1aba1643b65d3949174287a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3120
+        width: 48
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d985a151399fa54083aa815381fd323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2990
+        width: 40
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e30a2ddd838a34289af8dfd1e7b28f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2990
+        width: 45
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289daf3eb126134e8642d4e57d60c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2990
+        width: 47
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1435ead67e63a94d9c5069a0628fdeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2860
+        width: 46
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c991d567d0d584d9a1c853513d5d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2860
+        width: 42
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f554de4126ac7e4086402b1426450f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2861
+        width: 46
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c111ca8304a6c44cac9b11adfe4e331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2730
+        width: 46
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57587da1e935a4690950274dbf8209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2730
+        width: 45
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ac4ff985629545be6bc2aa8046439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2730
+        width: 43
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c65f650ebc5fb741983de9319fc3005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2600
+        width: 47
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e855b6bb3e5b14a44b753e7e2e7f86cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2600
+        width: 54
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae68934d0b8da4896dcbdcee946f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2601
+        width: 42
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e8a590c34ce24dbb61e4e14192b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2471
+        width: 55
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a0d440041a2c43a7f5cd77e72bb0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2471
+        width: 38
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963b8c2a5db665843824b4f379dab0c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2470
+        width: 53
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86de61cf51c26eb4c93c6173d44a9b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2340
+        width: 49
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf85164eb0802545b4cb2045743c261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2341
+        width: 62
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa9334d2ab5d049bc2a8d9cf8dae63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2340
+        width: 53
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4825d69d693b9aa41a846cddc79de107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2210
+        width: 49
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7208bfb0313d49a4184a00eaeb51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2211
+        width: 51
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92120eddc5839b43902d13242b1dd8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2210
+        width: 52
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c8edb6d657494ba5f1bf4d1a498af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2081
+        width: 52
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce85939457fcc49b66b888548e1b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2080
+        width: 52
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b221fa86db401b48a9c8cdc810b732e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2080
+        width: 53
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d658847704a124b887dbee044c04a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1950
+        width: 42
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974939a5b4197e44a66a1b59394b9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1950
+        width: 41
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231fb4837c6d1344bed911c656b3c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1950
+        width: 49
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac65a276ad75e429bff137a40d322a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1820
+        width: 44
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7997a988549f4b9a2eb4b44e9d244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1820
+        width: 63
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0031614353eacc48b81f835fb113725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1821
+        width: 62
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6550986855d194f8d2e6d0dc8d5dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1690
+        width: 59
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79f4367cf6ed04aa045d63183c5498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1690
+        width: 41
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e830ead8ae463440872d5ff46eb2b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1690
+        width: 44
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49c0f0d9bf1d041bd5cdba1f03d5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1560
+        width: 48
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52efe32d6e2638428acfee6172319f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1579
+        width: 56
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450b0103404e704daf64f26a112d193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1568
+        width: 76
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c01de3e072684d93e1ecd5bb9ab5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1431
+        width: 69
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc703be2d334c4e901bc6b7a1c1814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1430
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e956758e3b9e674ea684d98000db32c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1432
+        width: 45
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f83e778f3ead7478c25020773f07b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1301
+        width: 80
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34dca81d1e44e4da4b1ef04e0ae7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1306
+        width: 106
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e83e95a87880f0439f77b754401b164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1325
+        width: 108
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5526d0461f446945b879d2dadd9ff15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1170
+        width: 91
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86258202888eb9d4f99603902ea348e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1173
+        width: 59
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f04d0839aad07408519aea7fbc1e1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1173
+        width: 68
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b9359d6ef32bb48b4a2338ec565a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1043
+        width: 57
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db291517cb8fa004395620f40f07daf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1052
+        width: 50
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cbe2b405721644e89dd3f7a4b1347e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1052
+        width: 46
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c768689f3147642859cb22f342f3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 923
+        width: 41
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd60df05ddb1f9d4ead23e4c5c0ace68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 939
+        width: 104
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85127edf7efd84da4f27a3bd93c476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 925
+        width: 47
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae795362f88ce749a925658409c2b62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 85
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f901790653a6b4da319506b8c29ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 781
+        width: 85
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aadf48deed867b4a9fad024506e39c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 780
+        width: 51
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78630323b7a9244af2ba4a20607c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 652
+        width: 49
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66991d45665d994eb5447e25ccbdf8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 657
+        width: 42
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e691d2d1e05df40819c0c19d7df19f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 650
+        width: 50
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef99e6c59338ba47b332651a378792f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 525
+        width: 59
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c182118daa044592d42b7b3a496bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 529
+        width: 59
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec23ae268dc1b429fd34831d7e211c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 56
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d84b712df8e7040947b75643029ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 397
+        width: 52
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3201fb75843f4eb017ee4f398fece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 390
+        width: 53
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f50e0d89efed4b937adb97ed964fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 393
+        width: 57
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe19c7688f6ed44acac5484c44143d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 264
+        width: 53
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69eb278167563f41b6f137ebee08896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 265
+        width: 50
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433169a60cfe9e4fb6d8625688ceee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 272
+        width: 77
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9573064df1564886cff6ecc5554ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 141
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2652dbeb06e2945b802d9e7287a300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 141
+        width: 67
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c068ac1e0c1d034a802a50d16e84fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 142
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0392f700b79024db1d63561f2f5947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parsekian_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 63
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10361c009017019469bf6852333f1bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 331666b14e04c704eb515f7249afc56a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

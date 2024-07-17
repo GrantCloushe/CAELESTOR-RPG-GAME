@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Hurtbox
+  - Propellor
+  - GrabRope
+  - Trampoline
+  - WindRing
+  - Pole
+  - Pulley
+  - CatapultLaunchZone
+  - Hazard
+  - Block
+  - BuildingArea
+  - Character
+  - NavPoint
+  - Stopper
+  - Enemy
+  - Target
+  - Resource
+  - NPC
+  - SceneJump
+  - Stairs
+  - Door
+  - Seat
+  - Container
+  - ItemUse
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Collisions
+  - Ceiling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
